@@ -1,0 +1,217 @@
+body{
+    background-color: black;
+    background-image: url(../asserts/AEC.jpg);
+}
+
+
+.presentation{
+    background-color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+   padding: 0;
+   background-size: 100%;
+}
+
+
+.tittle1{
+    margin-left: 42%;
+    color: palevioletred;
+    
+}
+
+.tittle2{
+    margin-left: 30%;
+    color:  palevioletred;
+    margin-bottom: 0;
+}
+
+
+.section1{
+    margin-top: 5vh;
+}
+
+.section2{
+    margin-top: 5vh;
+}
+.section3{
+    margin-top: 5vh;
+}
+.section4{
+    margin-top: 5vh;
+}
+
+.section5{
+    margin-top: 5vh;
+}
+.section6{
+    margin-top: 5vh;
+}
+.section7{
+    margin-top: 5vh;
+}
+
+.section8{
+    margin-top: 5vh;
+}
+.section9{
+    margin-top: 5vh;
+}
+.section10{
+    margin-top: 5vh;
+}
+
+.section11{
+    margin-top: 5vh;
+}
+.section12{
+    margin-top: 5vh;
+}
+.section13{
+    margin-top: 5vh;
+}
+
+.section14{
+    margin-top: 5vh;
+}
+.section15{
+    margin-top: 5vh;
+}
+.section16{
+    margin-top: 5vh;
+}
+
+.section17{
+    margin-top: 5vh;
+}
+.section18{
+    margin-top: 5vh;
+}    
+.section19{
+    margin-top: 5vh;
+}
+.section20{
+    margin-top: 5vh;
+}
+
+.section21{
+    margin-top: 5vh;
+}
+.section22{
+    margin-top: 5vh;
+}    
+.button1{
+    margin-top: 5vh;
+}
+.acordion{
+    background-image: url(asserts/acordion.image.jpg);
+    background-size: 100vw;
+}
+
+.uno{
+    color: black;
+margin-left:30vw;
+}
+.dos{
+    color: black;
+}
+.uno{
+    color: black;
+
+}
+
+.acordion{
+    margin-top: 20vh;
+}
+.noti{
+    margin-top: 5vh;
+}
+
+.info{
+    background-color: black;
+    border-width: 100vw;
+    height: 10vh;
+    
+}
+
+.text1{
+    color: black;
+}
+
+.button1{
+    margin-top: 5%;
+    float: right;
+}
+.tierra{
+    color: aqua;
+}
+
+.buttons2{
+    margin-top: 5vh;
+}
+
+.caroutitle{
+    color: aqua;
+    background-color: black;
+    height: 10vh;
+}
+.materia{
+    color:blue;
+    background-color: black;
+    height: 10vh;
+
+}
+.prima{
+    margin-top: 5vh;
+    
+}
+
+.primatwo{
+    margin-top: 5vh;
+
+}
+.primathird{
+    margin-top: 5vh;
+}
+.drop{
+    color:blue;
+    background-color: black;
+    height: 15vh;
+
+}
+
+.tres{
+    margin-top: 2vh;
+}
+
+.total{
+    margin-top: 8vh;
+}
+
+.modalone{
+    margin-top: 10vh;
+}
+
+.modaltwo{
+    margin-top: 10vh;
+}
+
+.modalthree{
+    margin-top: 10vh;
+}
+.navone{
+    background-color: black;
+}
+.nav1{
+    margin-top: 5vh;
+}
+
+.canvas1{
+    margin-top: 5vh;
+}
+
+.pop{
+    margin-top: 20vh;
+}
+.popo{
+    margin-top: 10vh;
+}
